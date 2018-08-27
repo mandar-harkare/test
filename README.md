@@ -17,3 +17,7 @@ checking the integration
 # checking JIRA inegration
 
 test it now 3
+
+
+# test the transition now
+check it
