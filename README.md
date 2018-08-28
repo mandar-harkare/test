@@ -1,4 +1,4 @@
-sdfsdfzvv\xv# test
+# test
 changing text to check emojis
 
 again
@@ -20,21 +20,10 @@ test it now 3
 
 
 # test the transition now
-check it
-second attempt
-third
-found something
-raw test
-today's last try??
-this should work now!!!!! 
+Cleaning up the stuff
 
-time to check the transition
 
-time to modify
-
-check 2
-
-#transition using workflow instead from Git
+transition using workflow instead from Git
 Done??
 
 # check the comments
