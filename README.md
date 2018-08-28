@@ -1,3 +1,4 @@
+check for lower case
 working for merge and Done
 # test
 dfsfchanging text to check emojis
