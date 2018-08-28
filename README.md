@@ -33,3 +33,4 @@ not working on this anymore
 lets work on that
 working
 try removing the In Progress condition
+test again with modified condition
