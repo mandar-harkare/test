@@ -16,8 +16,7 @@ checking the integration
 
 # checking JIRA inegration
 
-test it now 3
-
+test it now
 
 # test the transition now
 Cleaning up the stuff
@@ -27,4 +26,4 @@ transition using workflow instead from Git
 Done??
 
 # check the comments
-??
+not working on this anymore
