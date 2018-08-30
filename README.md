@@ -1,4 +1,4 @@
-#!/bin/sh
+
 ``` 
 #.git/hooks/commit-msg to add JIRA number from branch name
 # Add git branch if relevant
