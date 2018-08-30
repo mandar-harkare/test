@@ -1,5 +1,5 @@
 #!/bin/sh
-- - - - 
+``` 
 #.git/hooks/commit-msg to add JIRA number from branch name
 # Add git branch if relevant
 parse_git_branch() {
@@ -20,6 +20,7 @@ then
    echo "[$TICKET] $MESSAGE" > $1
 fi
 
+```
 working for merge and Done
 # test
 dfsfchanging text to check emojis
