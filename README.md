@@ -1,4 +1,5 @@
-New Steps : I hope it works now 
+New Steps : I hope it works now
+Did not work.. 
 
 ``` 
 #.git/hooks/commit-msg to add JIRA number from branch name
