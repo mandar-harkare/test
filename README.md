@@ -1,5 +1,5 @@
 New JIRA
-second Brch
+second Branch
 New Steps : I hope it works now
 
 
